@@ -16,6 +16,7 @@ void loop() {
   delay(500); 
 }
 ```
+*Obs: o código comentado encontra-se no arquivo primeiraparte.ino deste repositório.*
 
 ### Vídeo Demonstrativo:
 [Acesse aqui o vídeo demonstrativo!](https://drive.google.com/file/d/1GIKWm-4iPIYcjyZSOCRo2RSh_9S6yd0y/view?usp=drive_link)
@@ -58,13 +59,14 @@ void loop()
   }
 }
 ```
+*Obs: o código comentado encontra-se no arquivo segundaparte.ino deste repositório.*
 
 ### Vídeo Demonstrativo:
 [Acesse aqui o vídeo demonstrativo!](https://drive.google.com/file/d/1GIKWm-4iPIYcjyZSOCRo2RSh_9S6yd0y/view?usp=drive_link)
 
 <p align = "center">Figura 2 - Blink Led Externo</p>
 <div align = "center">
-  <img src = "./assets/tinkercad.jpeg">
+  <img src = "./assets/tinkercad.png">
  <sup>Fonte: material autoral.</sup>
  </div>
 
