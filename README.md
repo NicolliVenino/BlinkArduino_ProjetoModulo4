@@ -35,6 +35,9 @@ Segue abaixo o código desenvolvido para piscar o led externo do arduíno, assim
 
 *Obs: faz-se necessário observar que, embora a atividade demande apenas o piscar do LED, adicionei um push bottom com o fito de ir além.*
 
+## LINK PARA O PROJETO NO TINKERCAD:
+[ACESSE AQUI O PROJETO NO TINKERCAD](https://www.tinkercad.com/things/cuaCJOcanWw-surprising-albar/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=QLpwCqPnK-gZ7uQYvxpfGYvrYsjjSbuE6A1-8KJ8Jns)
+
 ```
 int b_pin = 8;
 int led_pin = 13;
